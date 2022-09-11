@@ -24,15 +24,11 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.card-header {
+  max-width: 500px;
+  white-space: normal;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App-link {
+  color: #61dafb;
 }
